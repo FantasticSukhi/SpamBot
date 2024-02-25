@@ -7,7 +7,7 @@
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/FantasticSukhi/Spambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.12.2-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/FantasticSukhi/SpamBot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=90)](https://github.com/FantasticSukhi/SpamBot)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
