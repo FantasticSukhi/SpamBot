@@ -5,7 +5,7 @@
   <b>𝐌𝐀𝐌𝐁𝐀 𝐒𝐏𝐀𝐌𝐌𝐄𝐑𝐒</b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/FantasticSukhi/Spambot/fork)
+[![Forks](https://img.shields.io/github/forks/FantasticSukhi/Spambot?style=flat-square&color=orange)](https://github.com/FantasticSukhi/Spambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.12.2-blue)](https://www.python.org/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/FantasticSukhi/SpamBot)   
 ----
