@@ -9,7 +9,7 @@ RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/510a18c7896006c5
   
 
           
-rizoel = "✧ 𝑅𝐼𝑍𝑂𝐸𝐿 𝑋 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼𝑉𝐸𝐸 ✧\n\n"
+rizoel = "✧ мαмвα ѕραммєяѕ ιѕ αℓινє ✧\n\n"
 
 rizoel += f"┏━━━━━━━━━━━━━━━━━━━\n"
 
