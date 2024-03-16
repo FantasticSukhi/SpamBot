@@ -13,8 +13,8 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "in this case, Updater is unable to identify the branch to be updated."
     "please check out to an official branch, and re-start the updater."
 )
-OFFICIAL_UPSTREAM_REPO = "https://github.com/MrRizoel/Spambot"
-BOT_IS_UP_TO_DATE = "**The RiZoeL X Spam** is up-to-date sur."
+OFFICIAL_UPSTREAM_REPO = "https://github.com/FantasticSukhi/Spambot"
+BOT_IS_UP_TO_DATE = "**The Mamba Spam** is up-to-date sur."
 NEW_BOT_UP_DATE_FOUND = (
     "new update found for {branch_name}\n"
     "changelog: \n\n{changelog}\n"
@@ -153,7 +153,7 @@ def generate_change_log(git_repo, diff_marker):
 async def deploy_start(Riz, message, refspec, remote):
     await message.edit(RESTARTING_APP)
     await message.edit(
-        "𝙐𝙥𝙙𝙖𝙩𝙚𝙙 𝙮𝙤𝙪𝙧 𝙍𝙞𝙕𝙤𝙚𝙇 𝙓 𝙎𝙥𝙖𝙢 𝙨𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮 𝙨𝙪𝙧!!!\𝙣© @𝙍𝙞𝙕𝙤𝙚𝙇𝙓"
+        "MAMBA SPAMMERS UPDATED SUCCESSFULLY SUR!!!\𝙣© @MAMBA_UPDATES"
     )
     await remote.push(refspec=refspec)
     await Riz.disconnect()
